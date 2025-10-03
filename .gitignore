@@ -2,3 +2,5 @@
 .DS_Store
 Thumbs.db
 dist/
+/.fetch-client/
+node_modules/
